@@ -1,6 +1,5 @@
 Meu repositório Git
 ====================
 
-Apenas repositório Git
 
-Edit
+https://brorlandi.github.io/2017/03/12/Git-primeiros-passos/
